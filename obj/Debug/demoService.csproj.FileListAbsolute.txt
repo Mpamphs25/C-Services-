@@ -1,0 +1,10 @@
+c:\users\m.sentis\source\repos\demoService\demoService\bin\Debug\demoService.exe.config
+c:\users\m.sentis\source\repos\demoService\demoService\bin\Debug\demoService.exe
+c:\users\m.sentis\source\repos\demoService\demoService\bin\Debug\demoService.pdb
+c:\users\m.sentis\source\repos\demoService\demoService\obj\Debug\demoService.csprojResolveAssemblyReference.cache
+c:\users\m.sentis\source\repos\demoService\demoService\obj\Debug\demoService.csproj.CoreCompileInputs.cache
+c:\users\m.sentis\source\repos\demoService\demoService\obj\Debug\demoService.exe
+c:\users\m.sentis\source\repos\demoService\demoService\obj\Debug\demoService.pdb
+C:\Users\m.sentis\source\repos\demoService\demoService\obj\Debug\demoService.ProjectInstaller.resources
+C:\Users\m.sentis\source\repos\demoService\demoService\obj\Debug\demoService.csproj.GenerateResource.Cache
+C:\Users\m.sentis\source\repos\demoService\demoService\obj\Debug\demoService.Service1.resources

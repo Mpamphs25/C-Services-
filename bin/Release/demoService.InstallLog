@@ -1,0 +1,454 @@
+﻿Installing assembly 'C:\Users\m.sentis\source\repos\demoService\demoService\bin\Release\demoService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\m.sentis\source\repos\demoService\demoService\bin\Release\demoService.InstallLog
+   assemblypath = C:\Users\m.sentis\source\repos\demoService\demoService\bin\Release\demoService.exe
+Installing service SenthsDemo...
+Service SenthsDemo has been successfully installed.
+Creating EventLog source SenthsDemo in log Application...
+Committing assembly 'C:\Users\m.sentis\source\repos\demoService\demoService\bin\Release\demoService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\m.sentis\source\repos\demoService\demoService\bin\Release\demoService.InstallLog
+   assemblypath = C:\Users\m.sentis\source\repos\demoService\demoService\bin\Release\demoService.exe
+Installing assembly 'C:\Users\m.sentis\source\repos\demoService\demoService\bin\Release\demoService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\m.sentis\source\repos\demoService\demoService\bin\Release\demoService.InstallLog
+   assemblypath = C:\Users\m.sentis\source\repos\demoService\demoService\bin\Release\demoService.exe
+Installing service SenthsDemo...
+Creating EventLog source SenthsDemo in log Application...
+Rolling back assembly 'C:\Users\m.sentis\source\repos\demoService\demoService\bin\Release\demoService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\m.sentis\source\repos\demoService\demoService\bin\Release\demoService.InstallLog
+   assemblypath = C:\Users\m.sentis\source\repos\demoService\demoService\bin\Release\demoService.exe
+Restoring event log to previous state for source SenthsDemo.
+Installing assembly 'C:\Users\m.sentis\source\repos\demoService\demoService\bin\Release\demoService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\m.sentis\source\repos\demoService\demoService\bin\Release\demoService.InstallLog
+   assemblypath = C:\Users\m.sentis\source\repos\demoService\demoService\bin\Release\demoService.exe
+Installing service SenthsDemo...
+Creating EventLog source SenthsDemo in log Application...
+Rolling back assembly 'C:\Users\m.sentis\source\repos\demoService\demoService\bin\Release\demoService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\m.sentis\source\repos\demoService\demoService\bin\Release\demoService.InstallLog
+   assemblypath = C:\Users\m.sentis\source\repos\demoService\demoService\bin\Release\demoService.exe
+Restoring event log to previous state for source SenthsDemo.
+Uninstalling assembly 'C:\Users\m.sentis\source\repos\demoService\demoService\bin\Release\demoService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\m.sentis\source\repos\demoService\demoService\bin\Release\demoService.InstallLog
+   assemblypath = C:\Users\m.sentis\source\repos\demoService\demoService\bin\Release\demoService.exe
+Removing EventLog source SenthsDemo.
+Service SenthsDemo is being removed from the system...
+Service SenthsDemo was successfully removed from the system.
+Installing assembly 'C:\Users\m.sentis\source\repos\demoService\demoService\bin\Release\demoService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\m.sentis\source\repos\demoService\demoService\bin\Release\demoService.InstallLog
+   assemblypath = C:\Users\m.sentis\source\repos\demoService\demoService\bin\Release\demoService.exe
+Installing service SenthsDemo...
+Service SenthsDemo has been successfully installed.
+Creating EventLog source SenthsDemo in log Application...
+Committing assembly 'C:\Users\m.sentis\source\repos\demoService\demoService\bin\Release\demoService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\m.sentis\source\repos\demoService\demoService\bin\Release\demoService.InstallLog
+   assemblypath = C:\Users\m.sentis\source\repos\demoService\demoService\bin\Release\demoService.exe
+Installing assembly 'C:\Users\m.sentis\source\repos\demoService\demoService\bin\Release\demoService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\m.sentis\source\repos\demoService\demoService\bin\Release\demoService.InstallLog
+   assemblypath = C:\Users\m.sentis\source\repos\demoService\demoService\bin\Release\demoService.exe
+Installing service SenthsDemo...
+Creating EventLog source SenthsDemo in log Application...
+Rolling back assembly 'C:\Users\m.sentis\source\repos\demoService\demoService\bin\Release\demoService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\m.sentis\source\repos\demoService\demoService\bin\Release\demoService.InstallLog
+   assemblypath = C:\Users\m.sentis\source\repos\demoService\demoService\bin\Release\demoService.exe
+Restoring event log to previous state for source SenthsDemo.
+Uninstalling assembly 'C:\Users\m.sentis\source\repos\demoService\demoService\bin\Release\demoService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\m.sentis\source\repos\demoService\demoService\bin\Release\demoService.InstallLog
+   assemblypath = C:\Users\m.sentis\source\repos\demoService\demoService\bin\Release\demoService.exe
+Removing EventLog source SenthsDemo.
+Service SenthsDemo is being removed from the system...
+Service SenthsDemo was successfully removed from the system.
+Installing assembly 'C:\Users\m.sentis\source\repos\demoService\demoService\bin\Release\demoService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\m.sentis\source\repos\demoService\demoService\bin\Release\demoService.InstallLog
+   assemblypath = C:\Users\m.sentis\source\repos\demoService\demoService\bin\Release\demoService.exe
+Installing service SenthsDemo...
+Creating EventLog source SenthsDemo in log Application...
+Rolling back assembly 'C:\Users\m.sentis\source\repos\demoService\demoService\bin\Release\demoService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\m.sentis\source\repos\demoService\demoService\bin\Release\demoService.InstallLog
+   assemblypath = C:\Users\m.sentis\source\repos\demoService\demoService\bin\Release\demoService.exe
+Restoring event log to previous state for source SenthsDemo.
+Installing assembly 'C:\Users\m.sentis\source\repos\demoService\demoService\bin\Release\demoService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\m.sentis\source\repos\demoService\demoService\bin\Release\demoService.InstallLog
+   assemblypath = C:\Users\m.sentis\source\repos\demoService\demoService\bin\Release\demoService.exe
+Installing service SenthsDemo...
+Creating EventLog source SenthsDemo in log Application...
+Rolling back assembly 'C:\Users\m.sentis\source\repos\demoService\demoService\bin\Release\demoService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\m.sentis\source\repos\demoService\demoService\bin\Release\demoService.InstallLog
+   assemblypath = C:\Users\m.sentis\source\repos\demoService\demoService\bin\Release\demoService.exe
+Restoring event log to previous state for source SenthsDemo.
+Installing assembly 'C:\Users\m.sentis\source\repos\demoService\demoService\bin\Release\demoService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\m.sentis\source\repos\demoService\demoService\bin\Release\demoService.InstallLog
+   assemblypath = C:\Users\m.sentis\source\repos\demoService\demoService\bin\Release\demoService.exe
+Installing service SenthsDemo...
+Creating EventLog source SenthsDemo in log Application...
+Rolling back assembly 'C:\Users\m.sentis\source\repos\demoService\demoService\bin\Release\demoService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\m.sentis\source\repos\demoService\demoService\bin\Release\demoService.InstallLog
+   assemblypath = C:\Users\m.sentis\source\repos\demoService\demoService\bin\Release\demoService.exe
+Restoring event log to previous state for source SenthsDemo.
+Uninstalling assembly 'C:\Users\m.sentis\source\repos\demoService\demoService\bin\Release\demoService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\m.sentis\source\repos\demoService\demoService\bin\Release\demoService.InstallLog
+   assemblypath = C:\Users\m.sentis\source\repos\demoService\demoService\bin\Release\demoService.exe
+Removing EventLog source SenthsDemo.
+Warning: The source SenthsDemo is not registered on the local machine.
+Service SenthsDemo is being removed from the system...
+Service SenthsDemo was successfully removed from the system.
+Installing assembly 'C:\Users\m.sentis\source\repos\demoService\demoService\bin\Release\demoService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\m.sentis\source\repos\demoService\demoService\bin\Release\demoService.InstallLog
+   assemblypath = C:\Users\m.sentis\source\repos\demoService\demoService\bin\Release\demoService.exe
+Installing service SenthsDemo...
+Creating EventLog source SenthsDemo in log Application...
+Rolling back assembly 'C:\Users\m.sentis\source\repos\demoService\demoService\bin\Release\demoService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\m.sentis\source\repos\demoService\demoService\bin\Release\demoService.InstallLog
+   assemblypath = C:\Users\m.sentis\source\repos\demoService\demoService\bin\Release\demoService.exe
+Restoring event log to previous state for source SenthsDemo.
+Installing assembly 'C:\Users\m.sentis\source\repos\demoService\demoService\bin\Release\demoService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\m.sentis\source\repos\demoService\demoService\bin\Release\demoService.InstallLog
+   assemblypath = C:\Users\m.sentis\source\repos\demoService\demoService\bin\Release\demoService.exe
+Installing service SenthsDemo...
+Service SenthsDemo has been successfully installed.
+Creating EventLog source SenthsDemo in log Application...
+Committing assembly 'C:\Users\m.sentis\source\repos\demoService\demoService\bin\Release\demoService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\m.sentis\source\repos\demoService\demoService\bin\Release\demoService.InstallLog
+   assemblypath = C:\Users\m.sentis\source\repos\demoService\demoService\bin\Release\demoService.exe
+Installing assembly 'C:\Users\m.sentis\source\repos\demoService\demoService\bin\Release\demoService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\m.sentis\source\repos\demoService\demoService\bin\Release\demoService.InstallLog
+   assemblypath = C:\Users\m.sentis\source\repos\demoService\demoService\bin\Release\demoService.exe
+Installing service SenthsDemo...
+Creating EventLog source SenthsDemo in log Application...
+Rolling back assembly 'C:\Users\m.sentis\source\repos\demoService\demoService\bin\Release\demoService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\m.sentis\source\repos\demoService\demoService\bin\Release\demoService.InstallLog
+   assemblypath = C:\Users\m.sentis\source\repos\demoService\demoService\bin\Release\demoService.exe
+Restoring event log to previous state for source SenthsDemo.
+Uninstalling assembly 'C:\Users\m.sentis\source\repos\demoService\demoService\bin\Release\demoService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\m.sentis\source\repos\demoService\demoService\bin\Release\demoService.InstallLog
+   assemblypath = C:\Users\m.sentis\source\repos\demoService\demoService\bin\Release\demoService.exe
+Removing EventLog source SenthsDemo.
+Service SenthsDemo is being removed from the system...
+Service SenthsDemo was successfully removed from the system.
+Installing assembly 'C:\Users\m.sentis\source\repos\demoService\demoService\bin\Release\demoService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\m.sentis\source\repos\demoService\demoService\bin\Release\demoService.InstallLog
+   assemblypath = C:\Users\m.sentis\source\repos\demoService\demoService\bin\Release\demoService.exe
+Installing service SenthsDemo...
+Creating EventLog source SenthsDemo in log Application...
+Rolling back assembly 'C:\Users\m.sentis\source\repos\demoService\demoService\bin\Release\demoService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\m.sentis\source\repos\demoService\demoService\bin\Release\demoService.InstallLog
+   assemblypath = C:\Users\m.sentis\source\repos\demoService\demoService\bin\Release\demoService.exe
+Restoring event log to previous state for source SenthsDemo.
+Installing assembly 'C:\Users\m.sentis\source\repos\demoService\demoService\bin\Release\demoService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\m.sentis\source\repos\demoService\demoService\bin\Release\demoService.InstallLog
+   assemblypath = C:\Users\m.sentis\source\repos\demoService\demoService\bin\Release\demoService.exe
+Installing service SenthsDemo...
+Creating EventLog source SenthsDemo in log Application...
+Rolling back assembly 'C:\Users\m.sentis\source\repos\demoService\demoService\bin\Release\demoService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\m.sentis\source\repos\demoService\demoService\bin\Release\demoService.InstallLog
+   assemblypath = C:\Users\m.sentis\source\repos\demoService\demoService\bin\Release\demoService.exe
+Restoring event log to previous state for source SenthsDemo.
+Installing assembly 'C:\Users\m.sentis\source\repos\demoService\demoService\bin\Release\demoService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\m.sentis\source\repos\demoService\demoService\bin\Release\demoService.InstallLog
+   assemblypath = C:\Users\m.sentis\source\repos\demoService\demoService\bin\Release\demoService.exe
+Installing service SenthsDemo...
+Creating EventLog source SenthsDemo in log Application...
+Rolling back assembly 'C:\Users\m.sentis\source\repos\demoService\demoService\bin\Release\demoService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\m.sentis\source\repos\demoService\demoService\bin\Release\demoService.InstallLog
+   assemblypath = C:\Users\m.sentis\source\repos\demoService\demoService\bin\Release\demoService.exe
+Restoring event log to previous state for source SenthsDemo.
+Installing assembly 'C:\Users\m.sentis\source\repos\demoService\demoService\bin\Release\demoService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\m.sentis\source\repos\demoService\demoService\bin\Release\demoService.InstallLog
+   assemblypath = C:\Users\m.sentis\source\repos\demoService\demoService\bin\Release\demoService.exe
+Installing service SenthsDemo...
+Creating EventLog source SenthsDemo in log Application...
+Rolling back assembly 'C:\Users\m.sentis\source\repos\demoService\demoService\bin\Release\demoService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\m.sentis\source\repos\demoService\demoService\bin\Release\demoService.InstallLog
+   assemblypath = C:\Users\m.sentis\source\repos\demoService\demoService\bin\Release\demoService.exe
+Restoring event log to previous state for source SenthsDemo.
+Installing assembly 'C:\Users\m.sentis\source\repos\demoService\demoService\bin\Release\demoService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\m.sentis\source\repos\demoService\demoService\bin\Release\demoService.InstallLog
+   assemblypath = C:\Users\m.sentis\source\repos\demoService\demoService\bin\Release\demoService.exe
+Installing service SenthsDemo...
+Service SenthsDemo has been successfully installed.
+Creating EventLog source SenthsDemo in log Application...
+Committing assembly 'C:\Users\m.sentis\source\repos\demoService\demoService\bin\Release\demoService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\m.sentis\source\repos\demoService\demoService\bin\Release\demoService.InstallLog
+   assemblypath = C:\Users\m.sentis\source\repos\demoService\demoService\bin\Release\demoService.exe
+Uninstalling assembly 'C:\Users\m.sentis\source\repos\demoService\demoService\bin\Release\demoService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\m.sentis\source\repos\demoService\demoService\bin\Release\demoService.InstallLog
+   assemblypath = C:\Users\m.sentis\source\repos\demoService\demoService\bin\Release\demoService.exe
+Removing EventLog source SenthsDemo.
+Service SenthsDemo is being removed from the system...
+Service SenthsDemo was successfully removed from the system.
+Installing assembly 'C:\Users\m.sentis\source\repos\demoService\demoService\bin\Release\demoService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\m.sentis\source\repos\demoService\demoService\bin\Release\demoService.InstallLog
+   assemblypath = C:\Users\m.sentis\source\repos\demoService\demoService\bin\Release\demoService.exe
+Installing service SenthsDemo...
+Service SenthsDemo has been successfully installed.
+Creating EventLog source SenthsDemo in log Application...
+Committing assembly 'C:\Users\m.sentis\source\repos\demoService\demoService\bin\Release\demoService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\m.sentis\source\repos\demoService\demoService\bin\Release\demoService.InstallLog
+   assemblypath = C:\Users\m.sentis\source\repos\demoService\demoService\bin\Release\demoService.exe
+Uninstalling assembly 'C:\Users\m.sentis\source\repos\demoService\demoService\bin\Release\demoService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\m.sentis\source\repos\demoService\demoService\bin\Release\demoService.InstallLog
+   assemblypath = C:\Users\m.sentis\source\repos\demoService\demoService\bin\Release\demoService.exe
+Removing EventLog source SenthsDemo.
+Service SenthsDemo is being removed from the system...
+Service SenthsDemo was successfully removed from the system.
+Installing assembly 'C:\Users\m.sentis\source\repos\demoService\demoService\bin\Release\demoService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\m.sentis\source\repos\demoService\demoService\bin\Release\demoService.InstallLog
+   assemblypath = C:\Users\m.sentis\source\repos\demoService\demoService\bin\Release\demoService.exe
+Installing service SenthsDemo...
+Service SenthsDemo has been successfully installed.
+Creating EventLog source SenthsDemo in log Application...
+Committing assembly 'C:\Users\m.sentis\source\repos\demoService\demoService\bin\Release\demoService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\m.sentis\source\repos\demoService\demoService\bin\Release\demoService.InstallLog
+   assemblypath = C:\Users\m.sentis\source\repos\demoService\demoService\bin\Release\demoService.exe
+Uninstalling assembly 'C:\Users\m.sentis\source\repos\demoService\demoService\bin\Release\demoService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\m.sentis\source\repos\demoService\demoService\bin\Release\demoService.InstallLog
+   assemblypath = C:\Users\m.sentis\source\repos\demoService\demoService\bin\Release\demoService.exe
+Removing EventLog source SenthsDemo.
+Service SenthsDemo is being removed from the system...
+Service SenthsDemo was successfully removed from the system.
+Attempt to stop service SenthsDemo.
+Installing assembly 'C:\Users\m.sentis\source\repos\demoService\demoService\bin\Release\demoService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\m.sentis\source\repos\demoService\demoService\bin\Release\demoService.InstallLog
+   assemblypath = C:\Users\m.sentis\source\repos\demoService\demoService\bin\Release\demoService.exe
+Installing service SenthsDemo...
+Creating EventLog source SenthsDemo in log Application...
+Rolling back assembly 'C:\Users\m.sentis\source\repos\demoService\demoService\bin\Release\demoService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\m.sentis\source\repos\demoService\demoService\bin\Release\demoService.InstallLog
+   assemblypath = C:\Users\m.sentis\source\repos\demoService\demoService\bin\Release\demoService.exe
+Restoring event log to previous state for source SenthsDemo.
+Installing assembly 'C:\Users\m.sentis\source\repos\demoService\demoService\bin\Release\demoService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\m.sentis\source\repos\demoService\demoService\bin\Release\demoService.InstallLog
+   assemblypath = C:\Users\m.sentis\source\repos\demoService\demoService\bin\Release\demoService.exe
+Installing service SenthsDemo...
+Creating EventLog source SenthsDemo in log Application...
+Rolling back assembly 'C:\Users\m.sentis\source\repos\demoService\demoService\bin\Release\demoService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\m.sentis\source\repos\demoService\demoService\bin\Release\demoService.InstallLog
+   assemblypath = C:\Users\m.sentis\source\repos\demoService\demoService\bin\Release\demoService.exe
+Restoring event log to previous state for source SenthsDemo.
+Uninstalling assembly 'C:\Users\m.sentis\source\repos\demoService\demoService\bin\Release\demoService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\m.sentis\source\repos\demoService\demoService\bin\Release\demoService.InstallLog
+   assemblypath = C:\Users\m.sentis\source\repos\demoService\demoService\bin\Release\demoService.exe
+Removing EventLog source SenthsDemo.
+Warning: The source SenthsDemo is not registered on the local machine.
+Service SenthsDemo is being removed from the system...
+Service SenthsDemo was successfully removed from the system.
+Attempt to stop service SenthsDemo.
+Installing assembly 'C:\Users\m.sentis\source\repos\demoService\demoService\bin\Release\demoService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\m.sentis\source\repos\demoService\demoService\bin\Release\demoService.InstallLog
+   assemblypath = C:\Users\m.sentis\source\repos\demoService\demoService\bin\Release\demoService.exe
+Installing service SenthsDemo...
+Creating EventLog source SenthsDemo in log Application...
+Rolling back assembly 'C:\Users\m.sentis\source\repos\demoService\demoService\bin\Release\demoService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\m.sentis\source\repos\demoService\demoService\bin\Release\demoService.InstallLog
+   assemblypath = C:\Users\m.sentis\source\repos\demoService\demoService\bin\Release\demoService.exe
+Restoring event log to previous state for source SenthsDemo.
+Installing assembly 'C:\Users\m.sentis\source\repos\demoService\demoService\bin\Release\demoService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\m.sentis\source\repos\demoService\demoService\bin\Release\demoService.InstallLog
+   assemblypath = C:\Users\m.sentis\source\repos\demoService\demoService\bin\Release\demoService.exe
+Installing service SenthsDemo...
+Service SenthsDemo has been successfully installed.
+Creating EventLog source SenthsDemo in log Application...
+Committing assembly 'C:\Users\m.sentis\source\repos\demoService\demoService\bin\Release\demoService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\m.sentis\source\repos\demoService\demoService\bin\Release\demoService.InstallLog
+   assemblypath = C:\Users\m.sentis\source\repos\demoService\demoService\bin\Release\demoService.exe
+Uninstalling assembly 'C:\Users\m.sentis\source\repos\demoService\demoService\bin\Release\demoService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\m.sentis\source\repos\demoService\demoService\bin\Release\demoService.InstallLog
+   assemblypath = C:\Users\m.sentis\source\repos\demoService\demoService\bin\Release\demoService.exe
+Removing EventLog source SenthsDemo.
+An exception occurred during the uninstallation of the System.Diagnostics.EventLogInstaller installer.
+System.Security.SecurityException: Requested registry access is not allowed.
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'C:\Users\m.sentis\source\repos\demoService\demoService\bin\Release\demoService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\m.sentis\source\repos\demoService\demoService\bin\Release\demoService.InstallLog
+   assemblypath = C:\Users\m.sentis\source\repos\demoService\demoService\bin\Release\demoService.exe
+Installing service SenthsDemo...
+Creating EventLog source SenthsDemo in log Application...
+Rolling back assembly 'C:\Users\m.sentis\source\repos\demoService\demoService\bin\Release\demoService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\m.sentis\source\repos\demoService\demoService\bin\Release\demoService.InstallLog
+   assemblypath = C:\Users\m.sentis\source\repos\demoService\demoService\bin\Release\demoService.exe
+Restoring event log to previous state for source SenthsDemo.
+Installing assembly 'C:\Users\m.sentis\source\repos\demoService\demoService\bin\Release\demoService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\m.sentis\source\repos\demoService\demoService\bin\Release\demoService.InstallLog
+   assemblypath = C:\Users\m.sentis\source\repos\demoService\demoService\bin\Release\demoService.exe
+Installing service SenthsDemo...
+Creating EventLog source SenthsDemo in log Application...
+Rolling back assembly 'C:\Users\m.sentis\source\repos\demoService\demoService\bin\Release\demoService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\m.sentis\source\repos\demoService\demoService\bin\Release\demoService.InstallLog
+   assemblypath = C:\Users\m.sentis\source\repos\demoService\demoService\bin\Release\demoService.exe
+Restoring event log to previous state for source SenthsDemo.
+Uninstalling assembly 'C:\Users\m.sentis\source\repos\demoService\demoService\bin\Release\demoService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\m.sentis\source\repos\demoService\demoService\bin\Release\demoService.InstallLog
+   assemblypath = C:\Users\m.sentis\source\repos\demoService\demoService\bin\Release\demoService.exe
+Removing EventLog source SenthsDemo.
+Service SenthsDemo is being removed from the system...
+Service SenthsDemo was successfully removed from the system.
+Attempt to stop service SenthsDemo.
+Uninstalling assembly 'C:\Users\m.sentis\source\repos\demoService\demoService\bin\Release\demoService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\m.sentis\source\repos\demoService\demoService\bin\Release\demoService.InstallLog
+   assemblypath = C:\Users\m.sentis\source\repos\demoService\demoService\bin\Release\demoService.exe
+Removing EventLog source SenthsDemo.
+Warning: The source SenthsDemo is not registered on the local machine.
+Service SenthsDemo is being removed from the system...
+Service SenthsDemo was successfully removed from the system.
+Attempt to stop service SenthsDemo.
+Uninstalling assembly 'C:\Users\m.sentis\source\repos\demoService\demoService\bin\Release\demoService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\m.sentis\source\repos\demoService\demoService\bin\Release\demoService.InstallLog
+   assemblypath = C:\Users\m.sentis\source\repos\demoService\demoService\bin\Release\demoService.exe
+Removing EventLog source SenthsDemo.
+Warning: The source SenthsDemo is not registered on the local machine.
+Service SenthsDemo is being removed from the system...
+Service SenthsDemo was successfully removed from the system.
+Attempt to stop service SenthsDemo.
+Uninstalling assembly 'C:\Users\m.sentis\source\repos\demoService\demoService\bin\Release\demoService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\m.sentis\source\repos\demoService\demoService\bin\Release\demoService.InstallLog
+   assemblypath = C:\Users\m.sentis\source\repos\demoService\demoService\bin\Release\demoService.exe
+Removing EventLog source SenthsDemo.
+Warning: The source SenthsDemo is not registered on the local machine.
+Service SenthsDemo is being removed from the system...
+Service SenthsDemo was successfully removed from the system.
+Attempt to stop service SenthsDemo.
+Installing assembly 'C:\Users\m.sentis\source\repos\demoService\demoService\bin\Release\demoService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\m.sentis\source\repos\demoService\demoService\bin\Release\demoService.InstallLog
+   assemblypath = C:\Users\m.sentis\source\repos\demoService\demoService\bin\Release\demoService.exe
+Installing service SenthsDemo...
+Creating EventLog source SenthsDemo in log Application...
+Rolling back assembly 'C:\Users\m.sentis\source\repos\demoService\demoService\bin\Release\demoService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\m.sentis\source\repos\demoService\demoService\bin\Release\demoService.InstallLog
+   assemblypath = C:\Users\m.sentis\source\repos\demoService\demoService\bin\Release\demoService.exe
+Restoring event log to previous state for source SenthsDemo.
+Installing assembly 'C:\Users\m.sentis\source\repos\demoService\demoService\bin\Release\demoService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\m.sentis\source\repos\demoService\demoService\bin\Release\demoService.InstallLog
+   assemblypath = C:\Users\m.sentis\source\repos\demoService\demoService\bin\Release\demoService.exe
+Installing service SenthsDemo...
+Service SenthsDemo has been successfully installed.
+Creating EventLog source SenthsDemo in log Application...
+Committing assembly 'C:\Users\m.sentis\source\repos\demoService\demoService\bin\Release\demoService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\m.sentis\source\repos\demoService\demoService\bin\Release\demoService.InstallLog
+   assemblypath = C:\Users\m.sentis\source\repos\demoService\demoService\bin\Release\demoService.exe
